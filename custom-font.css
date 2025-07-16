@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'BentonSans';
+  src: url('BentonSans-Black.woff2') format('woff2'),
+       url('BentonSans-Black.woff') format('woff');
+  font-weight: 900; /* adjust based on the font */
+  font-style: normal;
+}
